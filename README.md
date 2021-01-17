@@ -2,6 +2,7 @@
 
 Admin girişi yapmak için http://localhost:4200/admin-login
 Admin sayfasına gitmek için http://localhost:4200/admin/dashboard
+Hocam son anda fark ettiğim için değiştiremedim.
 
 # NewProje
 
