@@ -1,9 +1,9 @@
-# Admin Girişi
+# Admin Login
 
-Admin girişi yapmak için http://localhost:4200/admin-login
-Admin sayfasına gitmek için http://localhost:4200/admin/dashboard
+For admin login: http://localhost:4200/admin-login
+For admin page: http://localhost:4200/admin/dashboard
 
-# NewProje
+# NewProject
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.0.
 
